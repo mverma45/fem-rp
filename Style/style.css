@@ -67,7 +67,7 @@ hr {
 	clear: both;
 	display: block;
 	width: 96%;
-	background-color: #070101;
+	background-color: hsl(30, 18%, 87%);
 	height: 1px;
 }
 
